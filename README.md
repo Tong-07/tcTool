@@ -1,2 +1,2 @@
-# tc-tool
+# tcTool
 简单工具
